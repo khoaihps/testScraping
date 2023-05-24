@@ -1,4 +1,3 @@
-
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
@@ -9,23 +8,52 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
 public class Person {
+    public String name;
+    public ArrayList<String> birth, death;
+    public ArrayList<Pair> infoList;
+    public String description;
 
-    public ArrayList<Pair> infoList = new ArrayList<Pair>();
-
-    public Person(ArrayList<Pair> infoList) {
-        this.infoList = infoList;
+    public Person() {
+        this.name = new String();
+        this.birth = new ArrayList<>();
+        this.death = new ArrayList<>();
+        this.infoList = new ArrayList<>();
+        this.description = new String();
     }
 
+    public String getName() {
+        return name;
+    }
+    public ArrayList<String> getBirth() {
+        return birth;
+    }
+    public ArrayList<String> getDeath() {
+        return death;
+    }
     public ArrayList<Pair> getInfoList() {
         return infoList;
     }
+    public String getDescription() {
+        return description;
+    }
 
+    public void setName(String name) {
+        this.name = name;
+    }
+    public void setBirth(ArrayList<String> birth) {
+        this.birth = birth;
+    }
+    public void setDeath(ArrayList<String> death) {
+        this.death = death;
+    }
     public void setInfoList(ArrayList<Pair> infoList) {
         this.infoList = infoList;
     }
+    public void setDescription(String description) {
+        this.description = description;
+    }
 
     public static final Gson gson = new Gson();
-
 
     public static void writePersonToJson(Person person) {
         String json = gson.toJson(person);

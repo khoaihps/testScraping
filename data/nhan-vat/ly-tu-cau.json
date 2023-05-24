@@ -1,0 +1,35 @@
+{
+  "name": "Lý Tử Cấu",
+  "birth": [
+    "",
+    "Hồng Châu (Hải Dương)"
+  ],
+  "death": [],
+  "infoList": [
+    {
+      "label": "Hiệu",
+      "info": [
+        "Hạ Trai"
+      ]
+    },
+    {
+      "label": "Giới tính",
+      "info": [
+        "Nam"
+      ]
+    },
+    {
+      "label": "Quốc gia",
+      "info": [
+        "Đại Ngu, Đại Việt"
+      ]
+    },
+    {
+      "label": "Triều đại",
+      "info": [
+        "Nhà Hồ, Nhà Lê sơ"
+      ]
+    }
+  ],
+  "description": "Lý Tử Cấu (? - ?) hiệu Hạ Trai,3 là một cao sĩ và nhà thơ sống ẩn dật vào đầu thời Lê.4"
+}

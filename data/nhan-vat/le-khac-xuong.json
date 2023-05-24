@@ -1,0 +1,31 @@
+{
+  "name": "Lê Khắc Xương",
+  "birth": [
+    "?"
+  ],
+  "death": [
+    "1476",
+    "Đông Kinh"
+  ],
+  "infoList": [
+    {
+      "label": "Tên đầy đủ",
+      "info": [
+        "Lê Khắc Xương"
+      ]
+    },
+    {
+      "label": "Thân phụ",
+      "info": [
+        "Lê Thái Tông"
+      ]
+    },
+    {
+      "label": "Thân mẫu",
+      "info": [
+        "Bùi Quý nhân"
+      ]
+    }
+  ],
+  "description": "Lê Khắc Xương (? - 1476) là một vị hoàng tử triều Hậu Lê, con vua Lê Thái Tông trong lịch sử Việt Nam."
+}

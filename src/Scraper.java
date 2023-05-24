@@ -50,10 +50,8 @@ public class Scraper {
         String label = "Name";
         ArrayList<String> info = new ArrayList<String>();
 
-
         String name = doc.select("h2[itemprop=headline]").text();
-        info.add(name);
-        p.infoList.add(new Pair(label,info));
+        p.setName(name);
 
         Element table = doc.selectFirst("table.infobox"); // select the table element with class "infobox"
         if (table != null) {
@@ -82,7 +80,6 @@ public class Scraper {
                         String lines[] = tdContent.split("<br>");
                         for (String line : lines) {
                             info.add(Jsoup.parse(line).text());
-                            // System.out.println(Jsoup.parse(line).text());
                         } 
                     } else info.add(row.select("td").text());
                 }
@@ -102,9 +99,8 @@ public class Scraper {
         }
 
         // p.writePersonToJson(p);
-        name = removeAccentsAndToLowercase(name);
-        p.writePersonToJsonFile(p,"./data/nhan-vat/"+name+".json");
-
+        String generatedPath = url.substring(url.lastIndexOf("/") + 1);
+        p.writePersonToJsonFile(p,"./data/nhan-vat/"+generatedPath+".json");
 
         // Push link to queue
         Elements links = doc.select("a[href]");

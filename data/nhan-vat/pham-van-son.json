@@ -1,0 +1,37 @@
+{
+  "name": "Phạm Văn Sơn",
+  "birth": [
+    "Phạm Văn Sơn",
+    "Hà Đông (nay thuộc Hà Nội), Việt Nam"
+  ],
+  "death": [
+    "Sông Thao, Vĩnh Phú (nay là Yên Lập, Phú Thọ), Việt Nam"
+  ],
+  "infoList": [
+    {
+      "label": "Nguyên nhân mất",
+      "info": [
+        "Chết trong trại tù cải tạo"
+      ]
+    },
+    {
+      "label": "Quốc gia",
+      "info": [
+        "Việt Nam"
+      ]
+    },
+    {
+      "label": "Quốc tịch",
+      "info": [
+        "Việt Nam"
+      ]
+    },
+    {
+      "label": "Nghề nghiệp",
+      "info": [
+        "Sử gia, sĩ quan Quân lực Việt Nam Cộng hòa"
+      ]
+    }
+  ],
+  "description": "Phạm Văn Sơn (1915 - 1978) là một sử gia Việt Nam và là sĩ quan Quân lực Việt Nam Cộng hòa."
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Trần Độ",
+  "birth": [
+    "1923",
+    "Tây Giang, Tiền Hải, Thái Bình, Liên bang Đông Dương"
+  ],
+  "death": [
+    "2002",
+    "Hà Nội, Việt Nam"
+  ],
+  "infoList": [
+    {
+      "label": "Quốc tịch",
+      "info": [
+        "Việt Nam"
+      ]
+    },
+    {
+      "label": "Thuộc",
+      "info": [
+        "Quân đội nhân dân Việt Nam"
+      ]
+    },
+    {
+      "label": "Năm tại ngũ",
+      "info": [
+        "1941 - 1986"
+      ]
+    },
+    {
+      "label": "Cấp bậc",
+      "info": [
+        "Trung tướng"
+      ]
+    },
+    {
+      "label": "Chỉ huy",
+      "info": [
+        "Việt Minh",
+        "Quân đội nhân dân Việt Nam"
+      ]
+    }
+  ],
+  "description": "Trần Độ (23 tháng 9 năm 1923 – 9 tháng 8 năm 2002) là nhà quân sự, chính trị gia Việt Nam, và là Trung tướng Quân đội Nhân dân Việt Nam."
+}

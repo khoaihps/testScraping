@@ -1,0 +1,51 @@
+{
+  "name": "Đỗ Mục",
+  "birth": [],
+  "death": [],
+  "infoList": [
+    {
+      "label": "Bút danh",
+      "info": [
+        "Phàn Xuyên"
+      ]
+    },
+    {
+      "label": "Quốc gia",
+      "info": [
+        "Trung Quốc"
+      ]
+    },
+    {
+      "label": "Dân tộc",
+      "info": [
+        "Người Hán"
+      ]
+    },
+    {
+      "label": "Quốc tịch",
+      "info": [
+        "Người Trung Quốc"
+      ]
+    },
+    {
+      "label": "Giai đoạn sáng tác",
+      "info": [
+        "Trước 825-sau 849"
+      ]
+    },
+    {
+      "label": "Thể loại",
+      "info": [
+        "Thơ Đường"
+      ]
+    },
+    {
+      "label": "Thân nhân",
+      "info": [
+        "Đỗ Hựu: ông nội",
+        "Đỗ Sùng: anh trai"
+      ]
+    }
+  ],
+  "description": "Đỗ Mục (chữ Hán: 杜牧, 803-852?)1 , tự Mục Chi, hiệu Phàn Xuyên; là một nhà thơ thời Vãn Đường trong lịch sử văn học Trung Quốc."
+}

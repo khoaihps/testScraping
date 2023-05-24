@@ -1,0 +1,68 @@
+{
+  "name": "Nguyễn An Ninh",
+  "birth": [
+    "5 tháng 9, 1900",
+    "Chợ Lớn, Hóc Môn, Liên bang Đông Dương"
+  ],
+  "death": [
+    "14 tháng 8, 1943 (42 tuổi)",
+    "Côn Đảo, Liên bang Đông Dương"
+  ],
+  "infoList": [
+    {
+      "label": "Quốc tịch",
+      "info": [
+        "Việt Nam"
+      ]
+    },
+    {
+      "label": "Dân tộc",
+      "info": [
+        "Kinh"
+      ]
+    },
+    {
+      "label": "Học vị",
+      "info": [
+        "Đại học Sorbonne"
+      ]
+    },
+    {
+      "label": "Trường lớp",
+      "info": [
+        "Cử nhân Luật"
+      ]
+    },
+    {
+      "label": "Nghề nghiệp",
+      "info": [
+        "nhà văn, nhà báo, nhà hoạt động cách mạng"
+      ]
+    },
+    {
+      "label": "Phong trào chính trị",
+      "info": [
+        "Trào lưu"
+      ]
+    },
+    {
+      "label": "Phối ngẫu",
+      "info": [
+        "Trương Thị Sáu (vợ)"
+      ]
+    },
+    {
+      "label": "Con cái",
+      "info": [
+        "Nguyễn An Định (con trai), Nguyễn Thị Bình (con gái), Nguyễn An Tịnh (con trai), Nguyễn Thị Minh (con gái), Nguyễn An Vĩnh (con trai)"
+      ]
+    },
+    {
+      "label": "Người thân",
+      "info": [
+        "Nguyễn An Khương (cha), Trương Thị Ngự (mẹ)"
+      ]
+    }
+  ],
+  "description": "Nguyễn An Ninh (1900 - 1943) là nhà văn, nhà báo, nhà nghiên cứu tôn giáo và là nhà cách mạng ở đầu thế kỷ 20 trong lịch sử Việt Nam."
+}

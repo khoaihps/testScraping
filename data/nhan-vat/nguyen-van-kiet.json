@@ -1,0 +1,38 @@
+{
+  "name": "Nguyễn Văn Kiệt",
+  "birth": [],
+  "death": [],
+  "infoList": [
+    {
+      "label": "Học vấn",
+      "info": [
+        "Đồng tiến sĩ"
+      ]
+    },
+    {
+      "label": "Chức quan cao nhất",
+      "info": [
+        "Thiêm đô ngự sử"
+      ]
+    },
+    {
+      "label": "Giới tính",
+      "info": [
+        "Nam"
+      ]
+    },
+    {
+      "label": "Quốc gia",
+      "info": [
+        "Đại Việt"
+      ]
+    },
+    {
+      "label": "Triều đại",
+      "info": [
+        "Lê sơ, Mạc"
+      ]
+    }
+  ],
+  "description": "Nguyễn Văn Kiệt là thiêm đô ngự sử thời Lê sơ,1 đỗ đồng tiến sĩ2 vào năm 1502.1"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Hoàng Nguyên",
+  "birth": [
+    "3 tháng 1 năm 1932",
+    "Quảng Trị"
+  ],
+  "death": [
+    "21 tháng 8 năm 1973",
+    "Vũng Tàu"
+  ],
+  "infoList": [
+    {
+      "label": "Tên khai sinh",
+      "info": [
+        "Cao Cự Phúc"
+      ]
+    },
+    {
+      "label": "Thể loại",
+      "info": [
+        "Tình khúc 1954-1975"
+      ]
+    },
+    {
+      "label": "Nghề nghiệp",
+      "info": [
+        "Giáo viên"
+      ]
+    },
+    {
+      "label": "Ca khúc tiêu biểu",
+      "info": [
+        "Ai lên xứ hoa đào, Tà áo tím, Cho người tình lỡ, Bài thơ hoa đào, Bài tango cho riêng em, Tôi sẽ về thăm em, Đường nào lên thiên thai, Lá rụng ven sông, Em chờ anh trở lại"
+      ]
+    }
+  ],
+  "description": "Hoàng Nguyên (1932 - 1973) là một nhạc sĩ tên tuổi, tác giả các ca khúc nổi danh như Ai lên xứ hoa đào, Cho người tình lỡ."
+}

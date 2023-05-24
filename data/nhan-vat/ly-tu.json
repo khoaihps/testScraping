@@ -1,0 +1,38 @@
+{
+  "name": "Lý Tư",
+  "birth": [
+    "284 TCN",
+    "Thượng Thái, nước Sở"
+  ],
+  "death": [
+    "208 TCN",
+    "Hàm Dương, nước Tần"
+  ],
+  "infoList": [
+    {
+      "label": "Tại vị",
+      "info": [
+        "237 TCN - 208 TCN"
+      ]
+    },
+    {
+      "label": "Tiền nhiệm",
+      "info": [
+        "Lã Bất Vi"
+      ]
+    },
+    {
+      "label": "Kế nhiệm",
+      "info": [
+        "Triệu Cao"
+      ]
+    },
+    {
+      "label": "Hoàng tộc",
+      "info": [
+        "Nhà Tần"
+      ]
+    }
+  ],
+  "description": "Lý Tư (李斯, 284 TCN - 208 TCN) là nhà chính trị Trung Quốc cổ đại, làm đến chức thừa tướng dưới đời Tần Thủy Hoàng và Tần Nhị Thế. Ông là người có công lớn trong việc Tần Thủy Hoàng thống nhất chư hầu, đưa Trung Quốc trở thành một nước quân chủ tập quyền, thống nhất về văn tự, đo lường, tư tưởng."
+}

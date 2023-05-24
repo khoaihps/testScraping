@@ -1,0 +1,38 @@
+{
+  "name": "Lê Thương",
+  "birth": [
+    "8 tháng 1 năm 1914",
+    "Hà Nội, Liên bang Đông Dương"
+  ],
+  "death": [
+    "17 tháng 9 năm 1996",
+    "Thành phố Hồ Chí Minh"
+  ],
+  "infoList": [
+    {
+      "label": "Tên khai sinh",
+      "info": [
+        "Ngô Đình Hộ"
+      ]
+    },
+    {
+      "label": "Thể loại",
+      "info": [
+        "Nhạc tiền chiến"
+      ]
+    },
+    {
+      "label": "Nghề nghiệp",
+      "info": [
+        "Giáo viên, nhạc sĩ"
+      ]
+    },
+    {
+      "label": "Ca khúc tiêu biểu",
+      "info": [
+        "Hòn vọng phu"
+      ]
+    }
+  ],
+  "description": "Lê Thương (1914–1996) là một trong những nhạc sĩ tiêu biểu nhất cho thời kỳ tiền chiến của tân nhạc Việt Nam. Ông là tác giả của bộ ba ca khúc Hòn vọng phu bất hủ."
+}

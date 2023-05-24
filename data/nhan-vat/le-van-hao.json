@@ -1,0 +1,37 @@
+{
+  "name": "Lê Văn Hảo",
+  "birth": [
+    "ngày 7 tháng 3 năm 1936",
+    "Đà Nẵng"
+  ],
+  "death": [
+    "ngày 13 tháng 1 năm 2015"
+  ],
+  "infoList": [
+    {
+      "label": "Ngành",
+      "info": [
+        "Dân tộc học"
+      ]
+    },
+    {
+      "label": "Nơi công tác",
+      "info": [
+        "Bảo tàng Louvre"
+      ]
+    },
+    {
+      "label": "Alma mater",
+      "info": [
+        "Đại học Sorbonne"
+      ]
+    },
+    {
+      "label": "Nổi tiếng vì",
+      "info": [
+        "Chủ tịch UBND Cách mạng Thành phố Huế, Các nghiên cứu về văn hóa Việt Nam"
+      ]
+    }
+  ],
+  "description": "Lê văn Hảo (sinh 7-3-1936 ở Đà Nẵng, mất ngày 13-1-2015 tại Pháp)1 đỗ Tiến sĩ Dân tộc học (1961) tại Đại học Sorbonne, từng là giáo sư Dân tộc học và Văn minh Việt Nam tại các Đại học Văn khoa Huế, Đại học Văn khoa Sài Gòn, và nguyên Chủ tịch UBND Cách mạng Thành phố Huế."
+}

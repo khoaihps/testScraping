@@ -1,0 +1,49 @@
+{
+  "name": "Dương Thu Hương",
+  "birth": [
+    "1947",
+    "Thái Bình"
+  ],
+  "death": [],
+  "infoList": [
+    {
+      "label": "Công việc",
+      "info": [
+        "Nhà văn"
+      ]
+    },
+    {
+      "label": "Quốc gia",
+      "info": [
+        "Việt Nam"
+      ]
+    },
+    {
+      "label": "Giai đoạn sáng tác",
+      "info": [
+        "Hiện đại"
+      ]
+    },
+    {
+      "label": "Thể loại",
+      "info": [
+        "Tiểu thuyết"
+      ]
+    },
+    {
+      "label": "Trào lưu",
+      "info": [
+        "Bất đồng chính kiến"
+      ]
+    },
+    {
+      "label": "Tác phẩm nổi bật",
+      "info": [
+        "Chuyện tình kể trước lúc rạng đông",
+        "Bên kia bờ ảo vọng",
+        "Đỉnh cao chói lọi..."
+      ]
+    }
+  ],
+  "description": "Dương Thu Hương (sinh năm 1947) là một nữ văn sĩ Việt Nam."
+}

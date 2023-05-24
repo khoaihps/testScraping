@@ -1,0 +1,41 @@
+{
+  "name": "Trần Phú",
+  "birth": [
+    "1 tháng 5, 1904",
+    "Tuy An, Phú Yên, Liên bang Đông Dương"
+  ],
+  "death": [
+    "6 tháng 9, 1931 (27 tuổi)",
+    "Sài Gòn, Liên bang Đông Dương"
+  ],
+  "infoList": [
+    {
+      "label": "Nhiệm kỳ",
+      "info": [
+        "27 tháng 10 năm 1930 – 19 tháng 4 năm 1931",
+        "0 năm, 174 ngày"
+      ]
+    },
+    {
+      "label": "Tiền nhiệm",
+      "info": [
+        "Trịnh Đình Cửu"
+      ]
+    },
+    {
+      "label": "Kế nhiệm",
+      "info": [
+        "Lê Hồng Phong"
+      ]
+    },
+    {
+      "label": "Đảng phái",
+      "info": [
+        "Tân Việt Cách mạng Đảng",
+        "Quốc tế Cộng sản",
+        "Đảng Cộng sản Đông Dương"
+      ]
+    }
+  ],
+  "description": "Trần Phú (1904–1931) là một nhà cách mạng Việt Nam. Ông là Tổng Bí thư đầu tiên của Đảng Cộng sản Đông Dương khi mới 26 tuổi."
+}

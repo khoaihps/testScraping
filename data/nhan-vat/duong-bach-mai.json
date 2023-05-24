@@ -1,0 +1,36 @@
+{
+  "name": "Dương Bạch Mai",
+  "birth": [
+    "Phước Lễ, Bà Rịa"
+  ],
+  "death": [
+    "Hà Nội"
+  ],
+  "infoList": [
+    {
+      "label": "Nguyên nhân mất",
+      "info": [
+        "đột tử"
+      ]
+    },
+    {
+      "label": "Nơi an nghỉ",
+      "info": [
+        "Hà Nội"
+      ]
+    },
+    {
+      "label": "Tên khác",
+      "info": [
+        "Bourov"
+      ]
+    },
+    {
+      "label": "Nghề nghiệp",
+      "info": [
+        "Chính trị gia"
+      ]
+    }
+  ],
+  "description": "Dương Bạch Mai (1904-1964) là một nhà hoạt động cách mạng dân tộc, nhà chính trị, ngoại giao Việt Nam, đảng viên Đảng Cộng sản Việt Nam, đại biểu Quốc hội Việt Nam khóa 2."
+}

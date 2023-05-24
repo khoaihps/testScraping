@@ -1,0 +1,36 @@
+{
+  "name": "Bùi Kỷ",
+  "birth": [
+    "Phủ Lý, Hà Nam"
+  ],
+  "death": [
+    "Hà Nội"
+  ],
+  "infoList": [
+    {
+      "label": "Tên khác",
+      "info": [
+        "Ưu Thiên, Tử Chương"
+      ]
+    },
+    {
+      "label": "Nghề nghiệp",
+      "info": [
+        "nhà giáo, nhà nghiên cứu văn hóa"
+      ]
+    },
+    {
+      "label": "Tác phẩm nổi bật",
+      "info": [
+        "Quốc văn cụ thể, Truyện trê cóc, Văn chương"
+      ]
+    },
+    {
+      "label": "Con cái",
+      "info": [
+        "Bùi Diễm"
+      ]
+    }
+  ],
+  "description": "Bùi Kỷ (5 tháng 1 năm 1888 - 19 tháng 5 năm 1960), tên chữ là Ưu Thiên, hiệu là Tử Chương, là nhà giáo, nhà Nho học và nhà nghiên cứu văn hóa có ảnh hưởng trong những năm đầy biến động của lịch sử Việt Nam giai đoạn đầu thế kỷ 20. Con ông là Bùi Diễm, một chính khách của Việt Nam Cộng hòa."
+}

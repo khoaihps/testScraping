@@ -1,0 +1,33 @@
+{
+  "name": "Nhà Trắng",
+  "birth": [],
+  "death": [],
+  "infoList": [
+    {
+      "label": "Thành phố",
+      "info": [
+        "1600 Pennsylvania Avenue NW",
+        "Washington, D.C. 20500"
+      ]
+    },
+    {
+      "label": "Quốc gia",
+      "info": [
+        "Hoa Kỳ"
+      ]
+    },
+    {
+      "label": "Khởi công",
+      "info": [
+        "13 tháng 10 năm 1792"
+      ]
+    },
+    {
+      "label": "Kiến trúc sư",
+      "info": [
+        "James Hoban"
+      ]
+    }
+  ],
+  "description": "Nhà Trắng (tiếng Anh: White House, cũng được dịch là Bạch Ốc hay Bạch Cung) là nơi ở chính thức và là nơi làm việc chính của Tổng thống Hoa Kỳ. Nhà Trắng là một biệt thự sơn màu trắng và được xây bằng sa thạch theo kiểu tân cổ điển, số nhà 1600 Đại lộ Pennsylvania NW tại Washington, D.C.."
+}

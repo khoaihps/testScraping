@@ -1,0 +1,50 @@
+{
+  "name": "Nguyễn Sáng",
+  "birth": [
+    "1923",
+    "Mỹ Tho"
+  ],
+  "death": [
+    "1988",
+    "Thành phố Hồ Chí Minh"
+  ],
+  "infoList": [
+    {
+      "label": "Tên khai sinh",
+      "info": [
+        "Nguyễn Sáng"
+      ]
+    },
+    {
+      "label": "Quốc tịch",
+      "info": [
+        ""
+      ]
+    },
+    {
+      "label": "Lĩnh vực hoạt động",
+      "info": [
+        "sơn dầu và sơn mài"
+      ]
+    },
+    {
+      "label": "Đào tạo",
+      "info": [
+        "Cao đẳng Mỹ thuật Đông Dương"
+      ]
+    },
+    {
+      "label": "Tác phẩm",
+      "info": [
+        "Kết nạp Đảng ở Điện Biên Phủ"
+      ]
+    },
+    {
+      "label": "Giải thưởng",
+      "info": [
+        "Giải thưởng Hồ Chí Minh"
+      ]
+    }
+  ],
+  "description": "Nguyễn Sáng (1923-1988) là một hoạ sĩ của Việt Nam, có nhiều đóng góp tiêu biểu cho hội họa hiện đại Việt Nam. Ông sinh tại làng Điều Hòa, tỉnh Mỹ Tho (nay thuộc Thành phố Mỹ Tho, tỉnh Tiền Giang)."
+}

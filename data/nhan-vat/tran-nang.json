@@ -1,0 +1,41 @@
+{
+  "name": "Trần Năng",
+  "birth": [
+    "1445"
+  ],
+  "death": [],
+  "infoList": [
+    {
+      "label": "Học vấn",
+      "info": [
+        "Hoàng giáp"
+      ]
+    },
+    {
+      "label": "Chức quan cao nhất",
+      "info": [
+        "Tả thị lang bộ Lại (khi sống)",
+        "Thượng thư bộ Lễ (truy tặng)"
+      ]
+    },
+    {
+      "label": "Giới tính",
+      "info": [
+        "Nam"
+      ]
+    },
+    {
+      "label": "Quốc gia",
+      "info": [
+        "Đại Việt"
+      ]
+    },
+    {
+      "label": "Triều đại",
+      "info": [
+        "Lê sơ"
+      ]
+    }
+  ],
+  "description": "Trần Năng (sinh 1445)1 là tả thị lang bộ Lại thời Lê sơ đậu hoàng giáp năm 1493. Ông được truy tặng thượng thư bộ Lễ sau khi qua đời.2"
+}

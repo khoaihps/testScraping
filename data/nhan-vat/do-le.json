@@ -1,0 +1,38 @@
+{
+  "name": "Đỗ Lễ",
+  "birth": [
+    "12 tháng 10 năm 1941",
+    "Hà Nội"
+  ],
+  "death": [
+    "24 tháng 3 năm 1997",
+    "Sài Gòn"
+  ],
+  "infoList": [
+    {
+      "label": "Tên khai sinh",
+      "info": [
+        "Đỗ Hữu Lễ"
+      ]
+    },
+    {
+      "label": "Thể loại",
+      "info": [
+        "nhạc vàng"
+      ]
+    },
+    {
+      "label": "Nghề nghiệp",
+      "info": [
+        "Nhạc sĩ"
+      ]
+    },
+    {
+      "label": "Ca khúc tiêu biểu",
+      "info": [
+        "Sang ngang, Tình phụ"
+      ]
+    }
+  ],
+  "description": "Đỗ Lễ là nhạc sĩ Việt Nam, tác giả bài Sang Ngang và bài Tình Phụ nổi tiếng."
+}

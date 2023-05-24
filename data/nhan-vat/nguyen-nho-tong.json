@@ -1,0 +1,38 @@
+{
+  "name": "Nguyễn Nho Tông",
+  "birth": [],
+  "death": [],
+  "infoList": [
+    {
+      "label": "Học vấn",
+      "info": [
+        "Tiến sĩ"
+      ]
+    },
+    {
+      "label": "Chức quan cao nhất",
+      "info": [
+        "Thượng thư"
+      ]
+    },
+    {
+      "label": "Giới tính",
+      "info": [
+        "Nam"
+      ]
+    },
+    {
+      "label": "Quốc gia",
+      "info": [
+        "Đại Việt"
+      ]
+    },
+    {
+      "label": "Triều đại",
+      "info": [
+        "Lê sơ, Mạc"
+      ]
+    }
+  ],
+  "description": "Nguyễn Nho Tông (chữ Hán: 阮儒宗)1 là thượng thư2 thời Lê sơ, đỗ tiến sĩ năm 1478.3"
+}

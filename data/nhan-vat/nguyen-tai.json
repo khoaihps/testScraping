@@ -1,0 +1,50 @@
+{
+  "name": "Nguyễn Tài",
+  "birth": [
+    "12 tháng 11, 1926",
+    "làng Xuân Cầu, xã Nghĩa Trụ, huyện Văn Giang, tỉnh Hưng Yên"
+  ],
+  "death": [
+    "16 tháng 2, 2016",
+    "Hà Nội"
+  ],
+  "infoList": [
+    {
+      "label": "Quốc tịch",
+      "info": [
+        "Việt Nam"
+      ]
+    },
+    {
+      "label": "Phục vụ",
+      "info": [
+        "Công an Nhân dân Việt Nam"
+      ]
+    },
+    {
+      "label": "Thuộc",
+      "info": [
+        "Công an nhân dân Việt Nam"
+      ]
+    },
+    {
+      "label": "Đơn vị",
+      "info": [
+        "Công an nhân dân Việt Nam"
+      ]
+    },
+    {
+      "label": "Khen thưởng",
+      "info": [
+        "Anh hùng lực lượng vũ trang nhân dân Huân chương Hồ Chí Minh"
+      ]
+    },
+    {
+      "label": "Công việc khác",
+      "info": [
+        "Cục trưởng Cục bảo vệ chính trị Việt Nam Dân chủ Cộng hòa Thứ trưởng Bộ Công an Công tác tại Ủy ban Pháp luật Nhà nước Tổng cục trưởng Tổng cục Hải quan Việt Nam."
+      ]
+    }
+  ],
+  "description": "Anh hùng lực lượng vũ trang nhân dân"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Trương Phát Khuê",
+  "birth": [
+    "huyện Thuỷ Hưng, tỉnh Quảng Đông, Trung Quốc"
+  ],
+  "death": [
+    "Hồng Kông, thuộc địa Anh quốc"
+  ],
+  "infoList": [
+    {
+      "label": "Phục vụ",
+      "info": [
+        "Thanh triều",
+        "Chính phủ Bắc Dương",
+        "Trung Hoa Dân Quốc"
+      ]
+    },
+    {
+      "label": "Năm tại ngũ",
+      "info": [
+        "1912 - 1949"
+      ]
+    },
+    {
+      "label": "Cấp bậc",
+      "info": [
+        "Lục quân Nhị cấp Thượng tướng"
+      ]
+    },
+    {
+      "label": "Chỉ huy",
+      "info": [
+        "Lữ đoàn trưởng Lữ đoàn độc lập Quân đoàn IV Quân Quốc dân Cách mạng",
+        "Quân đoàn trưởng Quân đoàn IV Quân Quốc dân Cách mạng",
+        "Tư lệnh Tập đoàn quân số 8",
+        "Tư lệnh Phương diện quân số 2",
+        "Tư lệnh Lục quân"
+      ]
+    }
+  ],
+  "description": "Lữ đoàn trưởng Lữ đoàn độc lập Quân đoàn IV Quân Quốc dân Cách mạng Quân đoàn trưởng Quân đoàn IV Quân Quốc dân Cách mạng Tư lệnh Tập đoàn quân số 8 Tư lệnh Phương diện quân số 2"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Nguyễn Văn Luyện",
+  "birth": [
+    "1898",
+    "Bắc Ninh"
+  ],
+  "death": [
+    "1946"
+  ],
+  "infoList": [
+    {
+      "label": "Quốc tịch",
+      "info": [
+        "Việt Nam"
+      ]
+    },
+    {
+      "label": "Khen thưởng",
+      "info": [
+        "Huân chương Kháng chiến hạng Nhất."
+      ]
+    },
+    {
+      "label": "Công việc khác",
+      "info": [
+        "Uỷ viên Ban chấp hành Trung ương của Mặt trận Việt Minh Ban cố vấn cho Chủ tịch Chính phủ Đại biểu Quốc hội Việt Nam khóa 1"
+      ]
+    }
+  ],
+  "description": "Uỷ viên Ban chấp hành Trung ương của Mặt trận Việt Minh"
+}

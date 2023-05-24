@@ -1,0 +1,75 @@
+{
+  "name": "Tôn Trung Sơn",
+  "birth": [
+    "12 tháng 11, 1866",
+    "Hương Sơn, Quảng Đông, Đại Thanh"
+  ],
+  "death": [
+    "12 tháng 3, 1925 (58 tuổi)",
+    "Bắc Kinh, Trung Hoa Dân Quốc"
+  ],
+  "infoList": [
+    {
+      "label": "Tiền nhiệm",
+      "info": [
+        "Phổ Nghi (Hoàng đế Trung Hoa)"
+      ]
+    },
+    {
+      "label": "Kế nhiệm",
+      "info": [
+        "Viên Thế Khải (Tổng thống đầu tiên)"
+      ]
+    },
+    {
+      "label": "Tiền nhiệm",
+      "info": [
+        "Không"
+      ]
+    },
+    {
+      "label": "Kế nhiệm",
+      "info": [
+        "Trương Nhân Kiệt"
+      ]
+    },
+    {
+      "label": "Quốc tịch",
+      "info": [
+        "Trung Quốc"
+      ]
+    },
+    {
+      "label": "Đảng chính trị",
+      "info": [
+        "Quốc Dân Đảng (KMT)"
+      ]
+    },
+    {
+      "label": "Phối ngẫu",
+      "info": [
+        "Lư Mộ Trinh (1885-1915)",
+        "Tống Khánh Linh (1915-1925)"
+      ]
+    },
+    {
+      "label": "Alma mater",
+      "info": [
+        "Trường đại học Tây Y Hồng Kông cho người Hoa (香港華人西醫書院, Hương Cảng Hoa nhân Tây y thư viện)"
+      ]
+    },
+    {
+      "label": "Nghề nghiệp",
+      "info": [
+        "Thầy thuốc, Nhà chính trị, Nhà cách mạng, Nhà văn"
+      ]
+    },
+    {
+      "label": "Tôn giáo",
+      "info": [
+        "Kitô giáo (Tự trị giáo đoàn)"
+      ]
+    }
+  ],
+  "description": ""
+}

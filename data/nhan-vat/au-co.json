@@ -1,0 +1,37 @@
+{
+  "name": "Âu Cơ",
+  "birth": [
+    "?"
+  ],
+  "death": [
+    "?"
+  ],
+  "infoList": [
+    {
+      "label": "Phối ngẫu",
+      "info": [
+        "Đế Lai (?)",
+        "Lạc Long Quân"
+      ]
+    },
+    {
+      "label": "Hậu duệ",
+      "info": [
+        "Một trăm con, con trưởng là Hùng Vương thứ I"
+      ]
+    },
+    {
+      "label": "Thân phụ",
+      "info": [
+        "Đế Lai (?)"
+      ]
+    },
+    {
+      "label": "Thân mẫu",
+      "info": [
+        "Không rõ"
+      ]
+    }
+  ],
+  "description": "Âu Cơ (chữ Hán: 嫗姬), hay phiên âm Ẩu Cơ, là một nhân vật trong truyền thuyết Việt Nam, theo đó bà là tổ mẫu của người Việt."
+}

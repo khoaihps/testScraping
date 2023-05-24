@@ -1,0 +1,38 @@
+{
+  "name": "Hoàng Hoa Thám",
+  "birth": [
+    "1858",
+    "Tiên Lữ, Hưng Yên, Việt Nam"
+  ],
+  "death": [
+    "10 tháng 2 năm 1913",
+    "Bắc Giang, Việt Nam"
+  ],
+  "infoList": [
+    {
+      "label": "Biệt danh",
+      "info": [
+        "Đề Dương",
+        "Đề Thám",
+        "Hùm thiêng Yên Thế"
+      ]
+    },
+    {
+      "label": "Phục vụ",
+      "info": [
+        "Đội quân Trần Xuân Soạn",
+        "Khởi nghĩa Cai Kinh",
+        "Khởi nghĩa Cai Vàng",
+        "Khởi nghĩa Đại Trận",
+        "Khởi nghĩa Yên Thế"
+      ]
+    },
+    {
+      "label": "Năm tại ngũ",
+      "info": [
+        "1862-1913"
+      ]
+    }
+  ],
+  "description": "Hoàng Hoa Thám (1858 – 10 tháng 2 năm 1913), còn gọi là Đề Dương, Đề Thám hay Hùm thiêng Yên Thế, là người lãnh đạo cuộc khởi nghĩa Yên Thế chống Pháp (1885–1913)."
+}

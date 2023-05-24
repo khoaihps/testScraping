@@ -1,0 +1,70 @@
+{
+  "name": "Tôn Hạo",
+  "birth": [
+    "242"
+  ],
+  "death": [
+    "284",
+    "Lạc Dương, Hà Nam"
+  ],
+  "infoList": [
+    {
+      "label": "Trị vì",
+      "info": [
+        "264 - 280"
+      ]
+    },
+    {
+      "label": "Tiền nhiệm",
+      "info": [
+        "Đông Ngô Cảnh Đế"
+      ]
+    },
+    {
+      "label": "Kế nhiệm",
+      "info": [
+        "không có (Đông Ngô diệt vong)"
+      ]
+    },
+    {
+      "label": "Tên đầy đủ",
+      "info": [
+        "Húy: Tôn Hạo",
+        "Tên tự: Hạo Tông (皓宗)"
+      ]
+    },
+    {
+      "label": "Niên hiệu",
+      "info": [
+        "Nguyên Hưng (元興) 264-265",
+        "Cam Lộ (甘露) 265-266",
+        "Bảo Định (寶鼎) 266-269",
+        "Kiến Hoành (建衡) 269-271",
+        "Phượng Hoàng (鳳凰) 272-274",
+        "Thiên Sách (天冊) 275-276",
+        "Thiên Tỷ (天璽) 276",
+        "Thiên Ký (天紀) 277-280",
+        ""
+      ]
+    },
+    {
+      "label": "Thụy hiệu",
+      "info": [
+        "Mạt Hoàng Đế (末皇帝)"
+      ]
+    },
+    {
+      "label": "Triều đại",
+      "info": [
+        "Nhà Đông Ngô"
+      ]
+    },
+    {
+      "label": "Thân phụ",
+      "info": [
+        "Tôn Hòa"
+      ]
+    }
+  ],
+  "description": "Nguyên Hưng (元興) 264-265 Cam Lộ (甘露) 265-266 Bảo Định (寶鼎) 266-269 Kiến Hoành (建衡) 269-271 Phượng Hoàng (鳳凰) 272-274 Thiên Sách (天冊) 275-276 Thiên Tỷ (天璽) 276 Thiên Ký (天紀) 277-280"
+}

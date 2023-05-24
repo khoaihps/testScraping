@@ -1,0 +1,51 @@
+{
+  "name": "Đặng Vũ Hiệp",
+  "birth": [
+    "1928",
+    "Cự Đình, Văn Lâm, Hưng Yên, Liên bang Đông Dương"
+  ],
+  "death": [
+    "2008",
+    "Hà Nội, Việt Nam"
+  ],
+  "infoList": [
+    {
+      "label": "Biệt danh",
+      "info": [
+        "Đặng Hùng"
+      ]
+    },
+    {
+      "label": "Quốc tịch",
+      "info": [
+        "Việt Nam"
+      ]
+    },
+    {
+      "label": "Thuộc",
+      "info": [
+        "Quân đội nhân dân Việt Nam"
+      ]
+    },
+    {
+      "label": "Năm tại ngũ",
+      "info": [
+        "1945 - 1988"
+      ]
+    },
+    {
+      "label": "Cấp bậc",
+      "info": [
+        "Thượng tướng"
+      ]
+    },
+    {
+      "label": "Chỉ huy",
+      "info": [
+        "Việt Minh",
+        "Quân đội nhân dân Việt Nam"
+      ]
+    }
+  ],
+  "description": "Đặng Vũ Hiệp (1928-2008) (Bí danh: Đặng Hùng) là Thượng tướng Quân đội Nhân dân Việt Nam."
+}

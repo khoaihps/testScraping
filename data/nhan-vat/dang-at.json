@@ -1,0 +1,38 @@
+{
+  "name": "Đặng Ất",
+  "birth": [],
+  "death": [],
+  "infoList": [
+    {
+      "label": "Học vấn",
+      "info": [
+        "Hoàng giáp"
+      ]
+    },
+    {
+      "label": "Chức quan cao nhất",
+      "info": [
+        "Giám sát ngự sử"
+      ]
+    },
+    {
+      "label": "Giới tính",
+      "info": [
+        "Nam"
+      ]
+    },
+    {
+      "label": "Quốc gia",
+      "info": [
+        "Đại Việt"
+      ]
+    },
+    {
+      "label": "Triều đại",
+      "info": [
+        "Lê sơ, Mạc"
+      ]
+    }
+  ],
+  "description": "Đặng Ất là giám sát ngự sử thời Lê sơ, đỗ hoàng giáp năm 1518."
+}

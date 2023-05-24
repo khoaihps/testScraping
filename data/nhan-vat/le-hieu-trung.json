@@ -1,0 +1,39 @@
+{
+  "name": "Lê Hiếu Trung",
+  "birth": [],
+  "death": [],
+  "infoList": [
+    {
+      "label": "Học vấn",
+      "info": [
+        "Đệ tam giáp đồng tiến sĩ xuất thân"
+      ]
+    },
+    {
+      "label": "Chức quan cao nhất",
+      "info": [
+        "Giám sát ngự sử",
+        "Tư nghiệp Quốc tử giám"
+      ]
+    },
+    {
+      "label": "Giới tính",
+      "info": [
+        "Nam"
+      ]
+    },
+    {
+      "label": "Quốc gia",
+      "info": [
+        "Đại Việt"
+      ]
+    },
+    {
+      "label": "Triều đại",
+      "info": [
+        "Lê sơ"
+      ]
+    }
+  ],
+  "description": "Lê Hiếu Trung (chữ Hán: 黎孝忠) là một tư nghiệp Quốc tử giám thời Lê sơ, đỗ đồng tiến sĩ năm 1502."
+}

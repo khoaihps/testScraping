@@ -1,0 +1,38 @@
+{
+  "name": "Lê Dực",
+  "birth": [],
+  "death": [],
+  "infoList": [
+    {
+      "label": "Học vấn",
+      "info": [
+        "Đồng tiến sĩ"
+      ]
+    },
+    {
+      "label": "Chức quan cao nhất",
+      "info": [
+        "Hữu thị lang bộ Lại"
+      ]
+    },
+    {
+      "label": "Giới tính",
+      "info": [
+        "Nam"
+      ]
+    },
+    {
+      "label": "Quốc gia",
+      "info": [
+        "Đại Việt"
+      ]
+    },
+    {
+      "label": "Triều đại",
+      "info": [
+        "Lê sơ, Mạc"
+      ]
+    }
+  ],
+  "description": "Lê Dực là hữu thị lang bộ Lại thời Lê sơ, đỗ đồng tiến sĩ năm Cảnh Thống.1"
+}

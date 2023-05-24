@@ -1,0 +1,43 @@
+{
+  "name": "Trần Kiết Tường",
+  "birth": [
+    "10 tháng 2, 1924",
+    "Thới Thạnh, Ô Môn, Cần Thơ"
+  ],
+  "death": [
+    "29 tháng 10, 1999 (75 tuổi)"
+  ],
+  "infoList": [
+    {
+      "label": "Tên khai sinh",
+      "info": [
+        "Trần Kiết Tường"
+      ]
+    },
+    {
+      "label": "Thể loại",
+      "info": [
+        "Nhạc đỏ, Dân ca"
+      ]
+    },
+    {
+      "label": "Nghề nghiệp",
+      "info": [
+        "Nhạc sĩ"
+      ]
+    },
+    {
+      "label": "Ca khúc tiêu biểu",
+      "info": [
+        "Chiến sĩ vô danh, Anh Ba Hưng, Hồ Chí Minh đẹp nhất tên người"
+      ]
+    },
+    {
+      "label": "Ca sĩ trình bày thành công",
+      "info": [
+        "Quốc Hương"
+      ]
+    }
+  ],
+  "description": "Trần Kiết Tường (1924-1999) là một nhạc sĩ người Việt. Ông là tác giả của ca khúc nổi tiếng \"Hồ Chí Minh đẹp nhất tên Người\"."
+}

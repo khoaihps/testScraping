@@ -1,0 +1,44 @@
+{
+  "name": "Ngô Sỹ Liên",
+  "birth": [
+    "Khoảng đầu thế kỷ 15",
+    "Chương Đức, Sơn Nam, Đại Việt"
+  ],
+  "death": [
+    "không rõ",
+    "Đại Việt"
+  ],
+  "infoList": [
+    {
+      "label": "Công việc",
+      "info": [
+        "Sử gia"
+      ]
+    },
+    {
+      "label": "Ngôn ngữ",
+      "info": [
+        "Tiếng Việt, chữ Hán"
+      ]
+    },
+    {
+      "label": "Giai đoạn sáng tác",
+      "info": [
+        "Nhà Lê"
+      ]
+    },
+    {
+      "label": "Thể loại",
+      "info": [
+        "Sử học"
+      ]
+    },
+    {
+      "label": "Tác phẩm nổi bật",
+      "info": [
+        "Đại Việt sử ký toàn thư"
+      ]
+    }
+  ],
+  "description": "Ngô Sĩ Liên (chữ Hán: 吳士連) (khoảng đầu thế kỷ 15 - ?) là một nhà sử học thời Lê sơ, sống vào thế kỷ 15. Ông là người đã tham gia khởi nghĩa Lam Sơn và có công lớn trong việc biên soạn bộ Đại Việt sử ký toàn thư - bộ quốc sử chính thống cũ nhất của Việt Nam mà còn được lưu truyền tới ngày nay."
+}

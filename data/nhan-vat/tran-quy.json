@@ -1,0 +1,31 @@
+{
+  "name": "Trần Quý",
+  "birth": [
+    "?",
+    "Miền Bắc"
+  ],
+  "death": [
+    "?"
+  ],
+  "infoList": [
+    {
+      "label": "Thể loại",
+      "info": [
+        "Nhạc vàng"
+      ]
+    },
+    {
+      "label": "Nghề nghiệp",
+      "info": [
+        "Nhạc sĩ"
+      ]
+    },
+    {
+      "label": "Ca khúc tiêu biểu",
+      "info": [
+        "Đồi thông hai mộ, Gió lạnh đêm hè, Tàu về quê hương"
+      ]
+    }
+  ],
+  "description": "Hồng Vân (Trần Quý) là một nhạc sĩ Việt Nam. Ông là tác giả bài \"Đồi thông hai mộ\" nổi tiếng và nhiều ca khúc dành cho tầng lớp bình dân tại Sài Gòn trước 1975."
+}

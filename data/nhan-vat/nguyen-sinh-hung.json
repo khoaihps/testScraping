@@ -120,5 +120,7 @@
       ]
     }
   ],
-  "description": "Nguyễn Sinh Hùng (sinh năm 1946) là cựu chính khách Việt Nam. Ông nguyên là Ủy viên Bộ Chính trị Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa X, XI, nguyên Chủ tịch Quốc hội Việt Nam.[1]"
+  "description": [
+    "(sinh năm 1946) là cựu chính khách Việt Nam. Ông nguyên là Ủy viên Bộ Chính trị Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa X, XI, nguyên Chủ tịch Quốc hội Việt Nam."
+  ]
 }

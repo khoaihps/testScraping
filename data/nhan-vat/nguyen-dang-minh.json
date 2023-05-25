@@ -3,5 +3,8 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "Nguyễn Đăng Minh (chữ Hán: 阮登明, 1623-1696) người xã Hoài Bão, huyện Tiên Du (nay thuộc xã Liên Bão, huyện Tiên Du, tỉnh Bắc Ninh). Đỗ Đệ tam giáp đồng Tiến sĩ xuất thân1 khoa thi Bính Tuất niên hiệu Phúc Thái thứ 4 (1646) thời Lê Chân Tông, cùng khoa thi với anh trai là Nguyễn Đăng Cảo."
+  "description": [
+    "(chữ Hán: 阮登明, 1623-1696) người xã Hoài Bão, (nay thuộc xã Liên Bão, , ). Đỗ Đệ tam giáp đồng Tiến sĩ xuất thân khoa thi Bính Tuất niên hiệu Phúc Thái thứ 4 (1646) thời , cùng khoa thi với anh trai là .",
+    "Ông làm quan cho trung hưng tới Quốc tử giám Tế tửu, tước Diễn Lộc nam ."
+  ]
 }

@@ -52,5 +52,8 @@
       ]
     }
   ],
-  "description": "Dương Đức là một xã thuộc huyện Lạng Giang, tỉnh Bắc Giang, Việt Nam."
+  "description": [
+    "là một xã thuộc huyện Lạng Giang, , Việt Nam.",
+    "Xã Dương Đức có diện tích 9,8 km², dân số năm 1999 là 6473 người, mật độ dân số đạt 661 người/km²."
+  ]
 }

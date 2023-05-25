@@ -48,5 +48,7 @@
       ]
     }
   ],
-  "description": "Nguyễn Văn Tỵ (24 tháng 2 năm 1917 - 19 tháng 1 năm 1992) là hoạ sĩ Việt Nam và là Tổng thư ký đầu tiên của Hội Mỹ thuật Việt Nam. Ông được trao tặng Giải thưởng Hồ Chí Minh về văn học nghệ thuật (đợt 2 - 2001)."
+  "description": [
+    "(24 tháng 2 năm 1917 - 19 tháng 1 năm 1992) là hoạ sĩ Việt Nam và là Tổng thư ký đầu tiên của Hội Mỹ thuật Việt Nam. Ông được trao tặng Giải thưởng về văn học nghệ thuật (đợt 2 - 2001)."
+  ]
 }

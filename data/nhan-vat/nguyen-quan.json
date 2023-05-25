@@ -50,5 +50,7 @@
       ]
     }
   ],
-  "description": "Nguyễn Quân (sinh ngày 12 tháng 6 năm 1955, quê quán: Thái Bình) là một Tiến sĩ và chính khách Việt Nam. Ông nguyên là Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XI, Bộ trưởng Bộ Khoa học và Công nghệ (Việt Nam)."
+  "description": [
+    "(sinh ngày 12 tháng 6 năm 1955, quê quán: Thái Bình) là một Tiến sĩ và chính khách Việt Nam. Ông nguyên là Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XI, Bộ trưởng Bộ Khoa học và Công nghệ (Việt Nam)."
+  ]
 }

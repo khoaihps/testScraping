@@ -3,5 +3,9 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "Trần Bửu Kiếm (sinh 1921), sinh quán Cần Thơ, tốt nghiệp Luật tại Hà Nội, tham gia Tổng hội Sinh viên và tham gia giành chính quyền tại Sài gòn năm 1945 trong Cách mạng Tháng Tám. Ông là đảng viên Đảng Dân chủ Việt Nam và Đảng cộng sản. Năm 1960 ông tham gia thành lập Mặt trận Dân tộc giải phóng Miền Nam Việt Nam, sau là thành viên Chính phủ Cách mạng lâm thời Cộng hòa Miền Nam Việt Nam."
+  "description": [
+    "(sinh 1921), sinh quán Cần Thơ, tốt nghiệp Luật tại Hà Nội, tham gia Tổng hội Sinh viên và tham gia giành chính quyền tại Sài gòn năm 1945 trong Cách mạng Tháng Tám. Ông là đảng viên Đảng Dân chủ Việt Nam và Đảng cộng sản. Năm 1960 ông tham gia thành lập Mặt trận Dân tộc giải phóng Miền Nam Việt Nam, sau là thành viên Chính phủ Cách mạng lâm thời Cộng hòa Miền Nam Việt Nam.",
+    "Ông là Bộ trưởng Phủ Chủ tịch Chính phủ của Cộng hòa miền Nam Việt Nam.",
+    "Ông từng là thành viên của Mặt trận Tổ quốc Việt Nam, ủy viên Đoàn Chủ tịch khóa I, II (đến 1988). Đầu thập niên 2000 ông qua Pháp đoàn tụ với gia đình."
+  ]
 }

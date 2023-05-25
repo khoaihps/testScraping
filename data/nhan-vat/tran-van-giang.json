@@ -82,5 +82,7 @@
       ]
     }
   ],
-  "description": "Các đơn vị:"
+  "description": [
+    "Các đơn vị:"
+  ]
 }

@@ -93,9 +93,19 @@ public class Scraper {
             }
         }
 
-        Element firstParagraph = doc.selectFirst("p");
-        if (firstParagraph != null) {
-            p.setDescription(firstParagraph.text());;
+        //  Scrape description
+        info = new ArrayList<>();
+        Element firstPTag = doc.selectFirst("p");
+        if (firstPTag != null)  {
+            String text = firstPTag.ownText();
+            info.add(text);
+            Element nextElement = firstPTag.nextElementSibling();
+            while (nextElement != null && !nextElement.tagName().equals("h2")) {
+                text = nextElement.ownText();
+                if (!text.isEmpty()) info.add(text);
+                nextElement = nextElement.nextElementSibling();
+            }
+            p.setDescription(info);
         }
 
         // p.writePersonToJson(p);
@@ -125,7 +135,7 @@ public class Scraper {
     public void scrapeData() throws Exception  {
         // Init the first url
         sourceUrl = "https://nguoikesu.com";
-        addUrlToQueue(sourceUrl + "/nhan-vat/ho-chi-minh");
+        addUrlToQueue(sourceUrl + "/nhan-vat/nguyen-du");
 
         while (!queue.isEmpty()) {
             String currentUrl = queue.poll();

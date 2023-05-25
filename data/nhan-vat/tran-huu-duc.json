@@ -100,5 +100,7 @@
       ]
     }
   ],
-  "description": "Trần Hữu Dực (1910–1993) là một cựu chính khách Việt Nam. Ông từng là Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Đại biểu Quốc hội, Phó Thủ tướng Chính phủ, Bộ trưởng Phủ Thủ tướng, Viện trưởng Viện Kiểm sát Nhân dân Tối cao nước Cộng hòa Xã hội Chủ nghĩa Việt Nam.1"
+  "description": [
+    "(1910–1993) là một cựu chính khách Việt Nam. Ông từng là Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Đại biểu Quốc hội, Phó Thủ tướng Chính phủ, Bộ trưởng Phủ Thủ tướng, Viện trưởng Viện Kiểm sát Nhân dân Tối cao nước Cộng hòa Xã hội Chủ nghĩa Việt Nam."
+  ]
 }

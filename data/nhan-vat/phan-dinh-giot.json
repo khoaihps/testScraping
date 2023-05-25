@@ -45,5 +45,7 @@
       ]
     }
   ],
-  "description": "Phan Đình Giót (1922-1954) là một trong 16 anh hùng lực lượng vũ trang nhân dân được tuyên dương vì thành tích trong chiến dịch Điện Biên Phủ. Chức vụ cuối của ông là Tiểu đội phó bộ binh Đại đội 58, Tiểu đoàn 428, Trung đoàn 141, Đại đoàn 312, Đảng viên Đảng Cộng sản Việt Nam.2 3"
+  "description": [
+    "(1922-1954) là một trong 16 anh hùng lực lượng vũ trang nhân dân được tuyên dương vì thành tích trong chiến dịch . Chức vụ cuối của ông là Tiểu đội phó bộ binh Đại đội 58, Tiểu đoàn 428, Trung đoàn 141, Đại đoàn 312, Đảng viên Đảng Cộng sản Việt Nam."
+  ]
 }

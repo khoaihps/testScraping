@@ -71,5 +71,7 @@
       ]
     }
   ],
-  "description": "Nguyễn Thành Trung (sinh ngày 9 tháng 10 năm 1947) là một cựu Đại tá Không quân Nhân dân Việt Nam. Ông là người đã lái máy bay F-5E ném bom vào dinh Độc Lập ngày 8 tháng 4 năm 1975 và là người Việt Nam đầu tiên lái máy bay Boeing 767 và 777."
+  "description": [
+    "(sinh ngày 9 tháng 10 năm 1947) là một cựu Đại tá Không quân Nhân dân Việt Nam. Ông là người đã lái máy bay F-5E ném bom vào dinh Độc Lập ngày 8 tháng 4 năm 1975 và là người Việt Nam đầu tiên lái máy bay Boeing 767 và 777."
+  ]
 }

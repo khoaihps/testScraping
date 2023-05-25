@@ -3,5 +3,7 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "Nguyễn Thị Thập (1908-1996) là một nhà cách mạng nữ Việt Nam. Bà từng là Đại biểu Quốc hội Việt Nam và là Chủ tịch Hội Liên hiệp phụ nữ Việt Nam lâu nhất (1956-1974). Bà cũng là phụ nữ đầu tiên được nhà nước Việt Nam trao tặng Huân chương Sao Vàng vào năm 1985."
+  "description": [
+    "(1908-1996) là một nhà cách mạng nữ Việt Nam. Bà từng là Đại biểu Quốc hội Việt Nam và là Chủ tịch Hội Liên hiệp phụ nữ Việt Nam lâu nhất (1956-1974). Bà cũng là phụ nữ đầu tiên được nhà nước Việt Nam trao tặng Huân chương Sao Vàng vào năm 1985."
+  ]
 }

@@ -87,5 +87,7 @@
       ]
     }
   ],
-  "description": "Lê Khả Phiêu (sinh năm 1931) là một cựu chính khách Việt Nam. Ông từng giữ chức vụ Tổng Bí thư Đảng Cộng sản Việt Nam từ tháng 12 năm 1997 đến tháng 4 năm 2001. Ông cũng đồng thời là một tướng lĩnh, từng giữ chức vụ Chủ nhiệm Tổng cục Chính trị Quân đội Nhân dân Việt Nam, hàm Thượng tướng."
+  "description": [
+    "(sinh năm 1931) là một cựu chính khách Việt Nam. Ông từng giữ chức vụ Tổng Bí thư Đảng Cộng sản Việt Nam từ tháng 12 năm 1997 đến tháng 4 năm 2001. Ông cũng đồng thời là một tướng lĩnh, từng giữ chức vụ Chủ nhiệm Tổng cục Chính trị Quân đội Nhân dân Việt Nam, hàm Thượng tướng."
+  ]
 }

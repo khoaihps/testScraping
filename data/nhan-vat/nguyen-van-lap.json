@@ -3,5 +3,7 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "Nguyễn Văn Lập (sinh năm 1927,1 tên khai sinh Kostas Sarantidis2 ) là một chiến sĩ quốc tế người Hy Lạp từng đứng trong hàng ngũ Việt Minh chống Pháp. Năm 2013, ông được chủ tịch nước Việt Nam Trương Tấn Sang phong tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân."
+  "description": [
+    "(sinh năm 1927, tên khai sinh ) là một chiến sĩ quốc tế người Hy Lạp từng đứng trong hàng ngũ Việt Minh chống Pháp. Năm 2013, ông được chủ tịch nước Việt Nam Trương Tấn Sang phong tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân."
+  ]
 }

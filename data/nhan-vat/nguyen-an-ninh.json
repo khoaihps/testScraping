@@ -64,5 +64,7 @@
       ]
     }
   ],
-  "description": "Nguyễn An Ninh (1900 - 1943) là nhà văn, nhà báo, nhà nghiên cứu tôn giáo và là nhà cách mạng ở đầu thế kỷ 20 trong lịch sử Việt Nam."
+  "description": [
+    "(1900 - 1943) là nhà văn, nhà báo, nhà nghiên cứu tôn giáo và là nhà cách mạng ở đầu thế kỷ 20 trong lịch sử Việt Nam."
+  ]
 }

@@ -111,5 +111,7 @@
       ]
     }
   ],
-  "description": "Phan Trung Kiên (sinh năm 1946) là một tướng lĩnh cấp cao trong Quân đội nhân dân Việt Nam, hàm Thượng tướng [1]. Ông nguyên là Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa VIII, IX, X, nguyên Tư lệnh Quân khu 7 (1997 - 2002), Thứ trưởng Bộ Quốc phòng Việt Nam (2002 - 2011). Anh hùng Lực lượng vũ trang nhân dân."
+  "description": [
+    "(sinh năm 1946) là một tướng lĩnh cấp cao trong Quân đội nhân dân Việt Nam, hàm Thượng tướng . Ông nguyên là Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa VIII, IX, X, nguyên Tư lệnh Quân khu 7 (1997 - 2002), Thứ trưởng Bộ Quốc phòng Việt Nam (2002 - 2011). Anh hùng Lực lượng vũ trang nhân dân."
+  ]
 }

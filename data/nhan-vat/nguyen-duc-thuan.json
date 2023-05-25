@@ -3,5 +3,7 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "Nguyễn Đức Thuận (1916 – 1985) là nhà cách mạng Việt Nam, nguyên là Phó Bí thư Xứ ủy Nam Bộ, Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Chủ tịch Tổng Liên đoàn Lao động Việt Nam. Ông là tác giả cuốn Bất khuất, một cuốn tự truyện từng gây tiếng vang ở miền Bắc về \"sức chịu đựng kỳ diệu của một người chiến sĩ\", suốt 8 năm bị tra tấn dã man vẫn không khuất phục...\"1 )."
+  "description": [
+    "(1916 – 1985) là nhà cách mạng Việt Nam, nguyên là Phó Bí thư Xứ ủy Nam Bộ, Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Chủ tịch Tổng Liên đoàn Lao động Việt Nam. Ông là tác giả cuốn , một cuốn tự truyện từng gây tiếng vang ở miền Bắc về \"sức chịu đựng kỳ diệu của một người chiến sĩ\", suốt 8 năm bị tra tấn dã man vẫn không khuất phục...\" )."
+  ]
 }

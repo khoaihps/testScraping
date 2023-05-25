@@ -3,5 +3,7 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "Hoàng Văn Tán (chữ Hán: 黃文贊, ? - ?) người xã Xuân Lôi, huyện Vũ Ninh (nay thuộc xã Đại Xuân huyện Quế Võ, tỉnh Bắc Ninh)1 . Ông thi đỗ trạng nguyên năm 1523, trong khoa thi Quý Mùi, niên hiệu Thống Nguyên thứ hai của vua Lê Cung Đế2 3 . Ông được giao cùng với Đông các đại học sĩ Đạo Nguyện bá Nguyễn Văn Thái thảo tờ chiếu của Lê Cung Hoàng nhường ngôi cho Mạc Đăng Dung1 (Đại Việt Sử ký Toàn thư chỉ chép là Nguyễn Văn Thái thảo chiếu này2 ). Sau đó, ông làm quan nhà Mạc đến chức Tả Thị lang Bộ Lễ1 ."
+  "description": [
+    "(chữ Hán: 黃文贊, ? - ?) người xã Xuân Lôi, huyện Vũ Ninh (nay thuộc xã Đại Xuân huyện Quế Võ, ) . Ông thi đỗ trạng nguyên năm 1523, trong khoa thi Quý Mùi, niên hiệu Thống Nguyên thứ hai của vua Lê Cung Đế . Ông được giao cùng với Đông các đại học sĩ Đạo Nguyện bá thảo tờ chiếu của nhường ngôi cho (Đại Việt Sử ký Toàn thư chỉ chép là thảo chiếu này ). Sau đó, ông làm quan đến chức Tả Thị lang Bộ Lễ ."
+  ]
 }

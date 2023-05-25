@@ -54,5 +54,7 @@
       ]
     }
   ],
-  "description": "Lê Hồng Phong (1902–1942) là một nhà hoạt động cách mạng Việt Nam. Ông là Tổng Bí thư thứ hai của Đảng Cộng sản Đông Dương từ năm 1935 đến năm 1936. Vợ ông, Nguyễn Thị Minh Khai, cũng là một yếu nhân của Đảng trong thời kỳ đầu."
+  "description": [
+    "(1902–1942) là một nhà hoạt động cách mạng Việt Nam. Ông là Tổng Bí thư thứ hai của Đảng Cộng sản Đông Dương từ năm 1935 đến năm 1936. Vợ ông, , cũng là một yếu nhân của Đảng trong thời kỳ đầu."
+  ]
 }

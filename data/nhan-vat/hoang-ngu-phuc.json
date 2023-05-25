@@ -3,5 +3,8 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "Hoàng Ngũ Phúc (chữ Hán: 黃五福, 1713–1776) là danh tướng thời Lê trung hưng trong lịch sử Việt Nam. Ông quê ở xã Phụng Công, huyện Yên Dũng (hiện nay là thôn Tân Phượng, xã Tân Mỹ, huyên Yên Dũng, Bắc Giang, Việt Nam). Hoàng Ngũ Phúc có công lớn trong việc đánh dẹp các cuộc khởi nghĩa nông dân Đàng Ngoài và là tổng chỉ huy cuộc nam tiến đánh Đàng Trong, mở mang đất đai Bắc Hà tới Quảng Nam."
+  "description": [
+    "(chữ Hán: 黃五福, 1713–1776) là danh tướng thời Lê trung hưng trong lịch sử Việt Nam. Ông quê ở xã Phụng Công, (hiện nay là thôn Tân Phượng, xã Tân Mỹ, huyên Yên Dũng, Bắc Giang, Việt Nam). Hoàng Ngũ Phúc có công lớn trong việc đánh dẹp các cuộc khởi nghĩa nông dân Đàng Ngoài và là tổng chỉ huy cuộc nam tiến đánh Đàng Trong, mở mang đất đai Bắc Hà tới Quảng Nam.",
+    "Hoàng Ngũ Phúc xuất thân là hoạn quan, nổi tiếng là người có nhiều mưu kế. Trước ông giữ chức tả thiếu giám, sung giữ chức nội sai trong Hình phiên."
+  ]
 }

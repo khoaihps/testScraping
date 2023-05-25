@@ -3,5 +3,7 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "Nguyễn Nghiêu Tư (tiếng Trung: 阮堯咨, 1383 - 1471), bản danh Nguyễn Văn Trư (阮文豬)1 , tự Quân Trù (君廚), hiệu Tùng Khê (松溪), người huyện Vũ Ninh, phủ Từ Sơn2 3 . Một tài liệu của Viện Hán-Nôm lại cho hay, ông là người xã Phù Lương, huyện Võ Giàng, phủ Từ Sơn, xứ Kinh Bắc (nay thuộc huyện Quế Võ, tỉnh Bắc Ninh)3 . Ông là một trạng nguyên thời nhà Lê sơ2 , làm quan đến chức Thượng thư3 ."
+  "description": [
+    "(tiếng Trung: , 1383 - 1471), bản danh (阮文豬) , tự (君廚), hiệu (松溪), người huyện Vũ Ninh, phủ Từ Sơn . Một tài liệu của Viện Hán-Nôm lại cho hay, ông là người xã Phù Lương, huyện Võ Giàng, phủ Từ Sơn, (nay thuộc huyện Quế Võ, ) . Ông là một trạng nguyên thời sơ , làm quan đến chức Thượng thư ."
+  ]
 }

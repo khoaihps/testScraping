@@ -46,5 +46,7 @@
       ]
     }
   ],
-  "description": "Phan Kế An (sinh 1923) là một họa sĩ Việt Nam nổi tiếng, là người đầu tiên được ký họa chân dung Hồ Chí Minh và là họa sĩ vẽ tranh biếm họa nổi tiếng của báo Sự Thật."
+  "description": [
+    "(sinh 1923) là một họa sĩ Việt Nam nổi tiếng, là người đầu tiên được ký họa chân dung và là họa sĩ vẽ tranh biếm họa nổi tiếng của báo Sự Thật."
+  ]
 }

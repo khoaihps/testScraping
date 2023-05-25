@@ -87,5 +87,7 @@
       ]
     }
   ],
-  "description": "Nguyễn Phúc Chu (chữ Hán: 阮福淍, 1675 – 1725) là vị chúa Nguyễn thứ sáu của chính quyền Đàng Trong trong lịch sử Việt Nam (ở ngôi từ 1691 đến 1725), nối ngôi Nguyễn Phúc Thái. Dưới thời Nguyễn Phúc Chu, lãnh thổ Đại Việt được mở rộng đáng kể về phía Nam sau các cuộc chiến với Chiêm Thành và Chân Lạp."
+  "description": [
+    "(chữ Hán: 阮福淍, 1675 – 1725) là vị chúa Nguyễn thứ sáu của chính quyền Đàng Trong trong lịch sử Việt Nam (ở ngôi từ 1691 đến 1725), nối ngôi . Dưới thời Nguyễn Phúc Chu, lãnh thổ Đại Việt được mở rộng đáng kể về phía Nam sau các cuộc chiến với Chiêm Thành và Chân Lạp."
+  ]
 }

@@ -3,5 +3,7 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "Trần Đình Long (1 tháng 3 năm 1904 - 1945) là nhà hoạt động cách mạng trong phong trào cộng sản Việt Nam, là cố vấn của Ủy ban khởi nghĩa Hà Nội trong Cách mạng tháng 8 năm 1945. Ông còn là một nhà văn, nhà báo và nhà hoạt động sân khấu, với bút danh Lương Phong hoặc tên viết tắt T.Đ.L, L.P."
+  "description": [
+    "(1 tháng 3 năm 1904 - 1945) là nhà hoạt động cách mạng trong phong trào cộng sản Việt Nam, là cố vấn của Ủy ban khởi nghĩa Hà Nội trong Cách mạng tháng 8 năm 1945. Ông còn là một nhà văn, nhà báo và nhà hoạt động sân khấu, với bút danh hoặc tên viết tắt T.Đ.L, L.P."
+  ]
 }

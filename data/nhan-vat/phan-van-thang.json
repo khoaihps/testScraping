@@ -50,5 +50,7 @@
       ]
     }
   ],
-  "description": "Phan Văn Thắng (sinh năm 1967) là một chính khách Việt Nam. Ông hiện là Chủ tịch Hội đồng nhân dân tỉnh Đồng Tháp khóa IX, nhiệm kỳ 2016–2021."
+  "description": [
+    "(sinh năm 1967) là một chính khách Việt Nam. Ông hiện là Chủ tịch Hội đồng nhân dân tỉnh Đồng Tháp khóa IX, nhiệm kỳ 2016–2021."
+  ]
 }

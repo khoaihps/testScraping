@@ -64,5 +64,7 @@
       ]
     }
   ],
-  "description": "Võ Nhai là một huyện miền núi phía đông bắc tỉnh Thái Nguyên. Đây là huyện có diện tích lớn nhất và có mật độ dân số tháp nhất trong tỉnh."
+  "description": [
+    "là một huyện miền núi phía đông bắc . Đây là huyện có diện tích lớn nhất và có mật độ dân số tháp nhất trong tỉnh."
+  ]
 }

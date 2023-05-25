@@ -53,5 +53,7 @@
       ]
     }
   ],
-  "description": "Trần Văn Cẩn (1910 - 1994) là một họa sĩ nổi tiếng của Việt Nam, được mệnh danh là một trong bộ tứ danh họa hàng đầu của nền mỹ thuật hiện đại Việt Nam: Nhất Trí, nhì Vân, tam Lân, tứ Cẩn. Ông cũng là người chỉnh sửa mẫu phác thảo Quốc huy Việt Nam thành dạng hoàn chỉnh như ngày nay."
+  "description": [
+    "(1910 - 1994) là một họa sĩ nổi tiếng của Việt Nam, được mệnh danh là một trong danh họa hàng đầu của nền mỹ thuật hiện đại Việt Nam: . Ông cũng là người chỉnh sửa mẫu phác thảo Quốc huy Việt Nam thành dạng hoàn chỉnh như ngày nay."
+  ]
 }

@@ -3,5 +3,7 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "Trần Văn Bảo (chữ Hán: 陳文寶, 1524 - 1611) là một danh sĩ Việt Nam. Ông từng đỗ Trạng nguyên khoa Canh Tuất, niên hiệu Cảnh Lịch thứ 3 (1550), đời Mạc Tuyên Tông, làm quan đến chức Thượng thư, từng đi sứ phương Bắc, được phong tước Nghĩa quận công."
+  "description": [
+    "(chữ Hán: 陳文寶, 1524 - 1611) là một danh sĩ Việt Nam. Ông từng đỗ Trạng nguyên khoa Canh Tuất, niên hiệu Cảnh Lịch thứ 3 (1550), đời , làm quan đến chức Thượng thư, từng đi sứ phương Bắc, được phong tước Nghĩa quận công."
+  ]
 }

@@ -3,5 +3,8 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "Nguyễn Nộn (阮嫩, ?-1219 hoặc 1229) là một sứ quân nổi dậy chống lại triều đình vào cuối thời Nhà Lý, đầu thời Nhà Trần trong lịch sử Việt Nam. Nguyễn Nộn người xã Phù Dực (huyện Tiên Du), nay là xã Phù Đổng, Gia Lâm, Hà Nội, Việt Nam."
+  "description": [
+    "(阮嫩, ?-1219 hoặc 1229) là một sứ quân nổi dậy chống lại triều đình vào cuối thời Nhà Lý, đầu thời Nhà Trần trong lịch sử Việt Nam. Nguyễn Nộn người xã Phù Dực (), nay là xã Phù Đổng, Gia Lâm, Hà Nội, Việt Nam.",
+    "Theo , Nguyễn Nộn là người có gương mặt đẹp, lại có lòng bao dung, có tính bình thản thanh thoát ."
+  ]
 }

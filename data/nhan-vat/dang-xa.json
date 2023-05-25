@@ -52,5 +52,8 @@
       ]
     }
   ],
-  "description": "Đặng Xá là một xã thuộc huyện Gia Lâm, thành phố Hà Nội, Việt Nam."
+  "description": [
+    "là một xã thuộc , , Việt Nam.",
+    "Xã Đặng Xá có diện tích 6,24 km², dân số năm 2013 là 21597 người, mật độ dân số đạt 3460 người/km²."
+  ]
 }

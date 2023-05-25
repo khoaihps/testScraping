@@ -195,5 +195,7 @@
       ]
     }
   ],
-  "description": "http://nguyentandung.chinhphu.vn Cổng Thông tin điện tử Chính phủ"
+  "description": [
+    "http://nguyentandung.chinhphu.vn Cổng Thông tin điện tử Chính phủ"
+  ]
 }

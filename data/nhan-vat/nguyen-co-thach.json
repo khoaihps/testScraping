@@ -53,5 +53,7 @@
       ]
     }
   ],
-  "description": "Nguyễn Cơ Thạch (1921 - 1998) là một chính trị gia, nhà ngoại giao Việt Nam. Ông nguyên là Ủy viên Bộ Chính trị, nguyên Phó Chủ tịch Hội đồng Bộ trưởng (nay là Phó Thủ tướng Chính phủ), nguyên Bộ trưởng Bộ Ngoại giao của Việt Nam."
+  "description": [
+    "(1921 - 1998) là một chính trị gia, nhà ngoại giao Việt Nam. Ông nguyên là Ủy viên Bộ Chính trị, nguyên Phó Chủ tịch Hội đồng Bộ trưởng (nay là Phó Thủ tướng Chính phủ), nguyên Bộ trưởng Bộ Ngoại giao của Việt Nam."
+  ]
 }

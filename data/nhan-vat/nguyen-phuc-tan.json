@@ -90,5 +90,7 @@
       ]
     }
   ],
-  "description": "Nguyễn Phúc Tần (chữ Hán: 阮福瀕, 18 tháng 7 năm 1620 - 30 tháng 4 năm 1687), tước hiệu Dương Quận công (勇郡公), và được người trong lãnh thổ gọi là chúa Hiền (主賢), là vị chúa Nguyễn thứ 4 trong của chính quyền Đàng Trong trong lịch sử Việt Nam. Ông ở ngôi từ năm 1648 đến năm 1687, tổng cộng được 40 năm."
+  "description": [
+    "(chữ Hán: 阮福瀕, 18 tháng 7 năm 1620 - 30 tháng 4 năm 1687), tước hiệu (勇郡公), và được người trong lãnh thổ gọi là (主賢), là vị chúa Nguyễn thứ 4 trong của chính quyền Đàng Trong trong lịch sử Việt Nam. Ông ở ngôi từ năm 1648 đến năm 1687, tổng cộng được 40 năm."
+  ]
 }

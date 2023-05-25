@@ -3,5 +3,7 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "Lý Bân (tiếng Trung: 李彬; ? - 1422), tự là Chất Văn (質文)) là một võ tướng của nhà Minh. Lý Bân từng giữ chức tổng binh quân đội Minh tại Đại Việt suốt từ năm 1417 đến năm 1422. Tổng binh trước Lý Bân là Trương Phụ và sau Lý Bân là Vương Thông."
+  "description": [
+    "(tiếng Trung: 李彬; ? - 1422), tự là Chất Văn (質文)) là một võ tướng của . Lý Bân từng giữ chức tổng binh quân đội Minh tại Đại Việt suốt từ năm 1417 đến năm 1422. Tổng binh trước Lý Bân là và sau Lý Bân là Vương Thông."
+  ]
 }

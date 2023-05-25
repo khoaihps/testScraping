@@ -3,5 +3,7 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "Trần Quý Cáp (1870 - 1908), tự Dã Hàng, Thích Phu, hiệu là Thái Xuyên. Ông sinh ra và lớn lên trong một gia đình nông dân nghèo ở thôn Thai La, làng Bất Nhị, huyện Điện Bàn, tỉnh Quảng Nam. Lúc tuổi trẻ, ông đã nổi tiếng là một trong sáu học trò lỗi lạc của cụ Đốc học Mã sơn Trần Đình Phong tại trường Thanh Chiêm cùng với Phạm Liệu, Nguyễn Đình Hiến, Phan Châu Trinh, Huỳnh Thúc Kháng, và Phan Quang. Ông tham gia phong trào Duy Tân chống Pháp, sau đó bị bắt giam và vào năm 1908, ông chịu án chém ngang lưng. Hiện nay vẫn còn đền thờ ông ở thị trấn Diên Khánh, huyện Diên Khánh, Khánh Hòa."
+  "description": [
+    "(1870 - 1908), tự , , hiệu là . Ông sinh ra và lớn lên trong một gia đình nông dân nghèo ở thôn Thai La, làng Bất Nhị, huyện Điện Bàn, . Lúc tuổi trẻ, ông đã nổi tiếng là một trong sáu học trò lỗi lạc của cụ Đốc học Mã sơn Trần Đình Phong tại trường Thanh Chiêm cùng với Phạm Liệu, Nguyễn Đình Hiến, , , và Phan Quang. Ông tham gia phong trào Duy Tân chống Pháp, sau đó bị bắt giam và vào năm 1908, ông chịu án chém ngang lưng. Hiện nay vẫn còn đền thờ ông ở thị trấn Diên Khánh, huyện Diên Khánh, Khánh Hòa."
+  ]
 }

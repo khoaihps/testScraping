@@ -54,5 +54,7 @@
       ]
     }
   ],
-  "description": "Vũ Trọng Khánh (1912–1996) là một luật sư người Việt Nam. Ông là Bộ trưởng Bộ Tư pháp đầu tiên của Chính phủ Lâm thời Việt Nam Dân chủ Cộng hòa, Thị trưởng Thành phố Hải phòng."
+  "description": [
+    "(1912–1996) là một luật sư người Việt Nam. Ông là Bộ trưởng Bộ Tư pháp đầu tiên của Chính phủ Lâm thời Việt Nam Dân chủ Cộng hòa, Thị trưởng Thành phố Hải phòng."
+  ]
 }

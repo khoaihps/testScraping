@@ -54,5 +54,7 @@
       ]
     }
   ],
-  "description": "Hoàng Minh Thảo (25 tháng 10 năm 1921 - 8 tháng 9 năm 2008) là một Giáo sư, Nhà giáo nhân dân, Thượng tướng Quân đội Nhân dân Việt Nam. Là một vị tướng trận mạc, ông cũng đồng thời được biết đến là một nhà lý luận quân sự hàng đầu của Việt Nam."
+  "description": [
+    "(25 tháng 10 năm 1921 - 8 tháng 9 năm 2008) là một Giáo sư, Nhà giáo nhân dân, Thượng tướng Quân đội Nhân dân Việt Nam. Là một vị tướng trận mạc, ông cũng đồng thời được biết đến là một nhà lý luận quân sự hàng đầu của Việt Nam."
+  ]
 }

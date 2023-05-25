@@ -65,5 +65,7 @@
       ]
     }
   ],
-  "description": "Nguyễn Quyết (sinh năm 1922) là một nhà hoạt động cách mạng, nhà chính trị, nhà quân sự của Việt Nam."
+  "description": [
+    "(sinh năm 1922) là một nhà hoạt động cách mạng, nhà chính trị, nhà quân sự của Việt Nam."
+  ]
 }

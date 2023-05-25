@@ -3,5 +3,8 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "Kinh Xuân Thu (chữ Hán: 春秋; bính âm: Chūnqiū), cũng được gọi là Lân Kinh (chữ Hán: 麟經) là bộ biên niên sử của nước Lỗ viết về giai đoạn từ năm 722 TCN tới năm 481 TCN, tức là từ Lỗ Ẩn Công năm thứ nhất đến Lỗ Ai Công năm thứ 14. Đây là văn bản lịch sử Trung Quốc sớm nhất còn lại và được ghi chép theo thể biên niên. Văn bản được đánh giá cực kỳ súc tích, và nếu bỏ toàn bộ những lời phê bình, nội dung sẽ dài khoảng 16.000 chữ, vì thế chỉ có thể hiểu được nghĩa của nó với sự hỗ trợ của những lời bình của các học giả thời xưa, đặc biệt theo truyền thống Tả truyện."
+  "description": [
+    "(chữ Hán: 春秋; bính âm: Chūnqiū), cũng được gọi là (chữ Hán: 麟經) là bộ biên niên sử của viết về giai đoạn từ năm 722 TCN tới năm 481 TCN, tức là từ Lỗ Ẩn Công năm thứ nhất đến Lỗ Ai Công năm thứ 14. Đây là văn bản lịch sử Trung Quốc sớm nhất còn lại và được ghi chép theo thể biên niên. Văn bản được đánh giá cực kỳ súc tích, và nếu bỏ toàn bộ những lời phê bình, nội dung sẽ dài khoảng 16.000 chữ, vì thế chỉ có thể hiểu được nghĩa của nó với sự hỗ trợ của những lời bình của các học giả thời xưa, đặc biệt theo truyền thống .",
+    "Bởi vì theo truyền thống, cuốn sách này được coi là do Khổng Tử biên soạn (theo giả thuyết của Mạnh Tử), nó được đưa vào trong bộ Ngũ Kinh của văn học Trung Quốc. Mạnh Tử nói rằng: \"\" . Sử ký của Tư Mã Thiên, thiên \"\" cũng chép: \"\" . Tuy nhiên, rất ít học giả hiện đại tin rằng Khổng Tử có nhiều ảnh hưởng trên quá trình trước tác văn bản này mà nó là tác phẩm của nhiều nhà biên niên sử người ."
+  ]
 }

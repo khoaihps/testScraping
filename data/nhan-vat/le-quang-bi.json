@@ -3,5 +3,7 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "Lê Quang Bí (1506 - ?) là quan nhà Mạc trong lịch sử Việt Nam và là nhà thơ Việt Nam. Ông người làng Mộ Trạch, huyện Đường An, nay là thôn Mộ Trạch, xã Tân Hồng, huyện Bình Giang, tỉnh Hải Dương, Việt Nam; nguyên quán lại ở xã Lão Loạt, huyện Thuận Hựu, nay thuộc huyện Hậu Lộc, tỉnh Thanh Hoá."
+  "description": [
+    "(1506 - ?) là quan trong lịch sử Việt Nam và là nhà thơ Việt Nam. Ông người làng Mộ Trạch, huyện Đường An, nay là thôn Mộ Trạch, xã Tân Hồng, , , Việt Nam; nguyên quán lại ở xã Lão Loạt, huyện Thuận Hựu, nay thuộc huyện Hậu Lộc, tỉnh Thanh Hoá."
+  ]
 }

@@ -64,5 +64,7 @@
       ]
     }
   ],
-  "description": "Phạm Ngọc Thạch (1909-1968) là một Nhà khoa học y khoa Việt Nam, Giáo sư tiến sĩ khoa học, nguyên Bộ trưởng Bộ Y tế trong chính phủ Việt Nam Dân chủ Cộng hòa. Ông được Nhà nước Cộng hòa Xã hội Chủ nghĩa Việt Nam truy tặng Giải thưởng Hồ Chí Minh năm 1997 vì các cống hiến trong lĩnh vực khoa học."
+  "description": [
+    "(1909-1968) là một Nhà khoa học y khoa Việt Nam, Giáo sư tiến sĩ khoa học, nguyên Bộ trưởng Bộ Y tế trong chính phủ Việt Nam Dân chủ Cộng hòa. Ông được Nhà nước Cộng hòa Xã hội Chủ nghĩa Việt Nam truy tặng Giải thưởng năm 1997 vì các cống hiến trong lĩnh vực khoa học."
+  ]
 }

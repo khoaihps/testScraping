@@ -3,5 +3,9 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "Nguyễn Sĩ (?-?), là một võ tướng trong phong trào Cần Vương ở Nghệ An, Việt Nam."
+  "description": [
+    "(?-?), là một võ tướng trong phong trào Cần Vương ở Nghệ An, Việt Nam.",
+    "Thân thế \u0026 sự nghiệp của ông đã được nhà chí sĩ giới thiệu trong sách như sau:",
+    "Ngoài đoạn văn ngắn ngủi trên, hiện chưa có thêm thông tin."
+  ]
 }

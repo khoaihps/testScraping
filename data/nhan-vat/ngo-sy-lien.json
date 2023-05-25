@@ -40,5 +40,7 @@
       ]
     }
   ],
-  "description": "Ngô Sĩ Liên (chữ Hán: 吳士連) (khoảng đầu thế kỷ 15 - ?) là một nhà sử học thời Lê sơ, sống vào thế kỷ 15. Ông là người đã tham gia khởi nghĩa Lam Sơn và có công lớn trong việc biên soạn bộ Đại Việt sử ký toàn thư - bộ quốc sử chính thống cũ nhất của Việt Nam mà còn được lưu truyền tới ngày nay."
+  "description": [
+    "(chữ Hán: 吳士連) (khoảng đầu thế kỷ 15 - ?) là một nhà sử học thời Lê sơ, sống vào thế kỷ 15. Ông là người đã tham gia khởi nghĩa Lam Sơn và có công lớn trong việc biên soạn bộ - bộ quốc sử chính thống cũ nhất của Việt Nam mà còn được lưu truyền tới ngày nay."
+  ]
 }

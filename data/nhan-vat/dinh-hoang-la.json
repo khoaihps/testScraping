@@ -3,5 +3,7 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "1 Chỉ tính số trận và số bàn thắng được ghi ở giải Vô địch quốc gia. * Số trận khoác áo (Số bàn thắng)"
+  "description": [
+    "Chỉ tính số trận và số bàn thắng được ghi ở giải Vô địch quốc gia. * Số trận khoác áo (Số bàn thắng)"
+  ]
 }

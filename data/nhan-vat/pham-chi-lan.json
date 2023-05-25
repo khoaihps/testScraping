@@ -37,5 +37,7 @@
       ]
     }
   ],
-  "description": "Phạm Chi Lan (sinh ngày 14 tháng 1 năm 1945) là một chuyên gia kinh tế nổi bật của Việt Nam. Bà từng là Tổng Thư ký và Phó Chủ tịch của Phòng Thương mại và Công nghiệp Việt Nam, thành viên của Ban Nghiên cứu của Thủ tướng.[2]"
+  "description": [
+    "(sinh ngày 14 tháng 1 năm 1945) là một chuyên gia kinh tế nổi bật của Việt Nam. Bà từng là Tổng Thư ký và Phó Chủ tịch của Phòng Thương mại và Công nghiệp Việt Nam, thành viên của Ban Nghiên cứu của Thủ tướng."
+  ]
 }

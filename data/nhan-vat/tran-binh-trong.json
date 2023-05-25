@@ -3,5 +3,7 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "Trần Bình Trọng (chữ Hán: 陳平仲, 1259 - tháng 2, 1285) là một danh tướng nhà Trần, có công lớn hộ giá bảo vệ cho Trần Thánh Tông và Trần Nhân Tông trong cuộc chiến với quân Nguyên-Mông vào năm 1285. Ông hy sinh khi chặn quân Nguyên ở bãi Thiên Mạc[1], được truy phong làm Bảo Nghĩa vương (保義王)."
+  "description": [
+    "(chữ Hán: 陳平仲, 1259 - tháng 2, 1285) là một danh tướng , có công lớn hộ giá bảo vệ cho và trong cuộc chiến với quân Nguyên-Mông vào năm 1285. Ông hy sinh khi chặn quân Nguyên ở bãi Thiên Mạc, được truy phong làm (保義王)."
+  ]
 }

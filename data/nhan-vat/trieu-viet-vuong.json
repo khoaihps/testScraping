@@ -48,5 +48,7 @@
       ]
     }
   ],
-  "description": "Triệu Việt Vương (chữ Hán: 趙越王; ?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đáy."
+  "description": [
+    "(chữ Hán: 趙越王; ?-571), tên thật là (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục đánh đuổi quân xâm lược , giữ nền độc lập cho . Năm 571, ông bị đánh úp và thua trận. Ông tự tử ở cửa ."
+  ]
 }

@@ -52,5 +52,8 @@
       ]
     }
   ],
-  "description": "Hoàng Động là một xã thuộc huyện Thuỷ Nguyên, thành phố Hải Phòng, Việt Nam."
+  "description": [
+    "là một xã thuộc huyện Thuỷ Nguyên, , Việt Nam.",
+    "Xã Hoàng Động có diện tích 5,77 km², dân số năm 1999 là 6887 người, mật độ dân số đạt 1194 người/km²."
+  ]
 }

@@ -3,5 +3,8 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "Phạm Quang Tiến (chữ Hán: 范光進, 1530-?) Người làng Lương Xá, huyện Thiện Tài, trấn Kinh Bắc (nay thuộc xã Phú Lương, huyện Lương Tài, tỉnh Bắc Ninh)1 . Đỗ Trạng nguyên khoa Ất Sửu, niên hiệu Thuần Phúc thứ 4 (1565) thời Mạc Mậu Hợp2 . Ông làm quan Đông các Đại học sĩ, được cử đi sứ sang nhà Minh (Trung Quốc) và mất trên đường đi. Sau khi mất, ông được truy tặng chức Tả Thị lang1 ."
+  "description": [
+    "(chữ Hán: 范光進, 1530-?) Người làng Lương Xá, huyện Thiện Tài, trấn Kinh Bắc (nay thuộc xã Phú Lương, huyện Lương Tài, ) . Đỗ Trạng nguyên khoa Ất Sửu, niên hiệu Thuần Phúc thứ 4 (1565) thời . Ông làm quan Đông các Đại học sĩ, được cử đi sứ sang (Trung Quốc) và mất trên đường đi. Sau khi mất, ông được truy tặng chức Tả Thị lang .",
+    "Cùng quê với ông còn có cũng đỗ trạng nguyên của , nhưng sau ông 12 năm."
+  ]
 }

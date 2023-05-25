@@ -56,5 +56,7 @@
       ]
     }
   ],
-  "description": "Hoàng Xuân Hãn (1908–1996) là một nhà sử học, nhà ngôn ngữ học, nhà nghiên cứu văn hóa, giáo dục Việt Nam đồng thời là một kỹ sư, nhà toán học. Ông là người soạn thảo và ban hành Chương trình Trung học Việt Nam đầu tiên."
+  "description": [
+    "(1908–1996) là một nhà sử học, nhà ngôn ngữ học, nhà nghiên cứu văn hóa, giáo dục Việt Nam đồng thời là một kỹ sư, nhà toán học. Ông là người soạn thảo và ban hành Chương trình Trung học Việt Nam đầu tiên."
+  ]
 }

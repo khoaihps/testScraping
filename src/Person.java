@@ -11,14 +11,14 @@ public class Person {
     public String name;
     public ArrayList<String> birth, death;
     public ArrayList<Pair> infoList;
-    public String description;
+    public ArrayList<String> description;
 
     public Person() {
         this.name = new String();
         this.birth = new ArrayList<>();
         this.death = new ArrayList<>();
         this.infoList = new ArrayList<>();
-        this.description = new String();
+        this.description = new ArrayList<>();
     }
 
     public String getName() {
@@ -33,7 +33,7 @@ public class Person {
     public ArrayList<Pair> getInfoList() {
         return infoList;
     }
-    public String getDescription() {
+    public ArrayList<String> getDescription() {
         return description;
     }
 
@@ -49,7 +49,7 @@ public class Person {
     public void setInfoList(ArrayList<Pair> infoList) {
         this.infoList = infoList;
     }
-    public void setDescription(String description) {
+    public void setDescription(ArrayList<String> description) {
         this.description = description;
     }
 

@@ -82,5 +82,7 @@
       ]
     }
   ],
-  "description": "Nguyễn Lương Bằng (1904-1979) là một nhà hoạt động cách mạng và chính khách của Việt Nam. Ông từng giữ các chức vụ Phó Chủ tịch nước Việt Nam (1969-1979), Tổng giám đốc Ngân hàng quốc gia Việt Nam, đại sứ đầu tiên của Việt Nam tại Liên Xô cũ (1952-1956), Tổng Thanh tra chính phủ (1956)."
+  "description": [
+    "(1904-1979) là một nhà hoạt động cách mạng và chính khách của Việt Nam. Ông từng giữ các chức vụ Phó Chủ tịch nước Việt Nam (1969-1979), Tổng giám đốc Ngân hàng quốc gia Việt Nam, đại sứ đầu tiên của Việt Nam tại Liên Xô cũ (1952-1956), Tổng Thanh tra chính phủ (1956)."
+  ]
 }

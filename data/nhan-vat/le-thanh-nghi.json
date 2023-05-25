@@ -52,5 +52,7 @@
       ]
     }
   ],
-  "description": "Lê Thanh Nghị (1911-1989) là một chính khách Việt Nam. Ông từng giữ chức Phó Thủ tướng của Việt Nam từ năm 1960 đến 1980, Phó chủ tịch kiêm Tổng thư ký Hội đồng Nhà nước (1982-1986)."
+  "description": [
+    "(1911-1989) là một chính khách Việt Nam. Ông từng giữ chức Phó Thủ tướng của Việt Nam từ năm 1960 đến 1980, Phó chủ tịch kiêm Tổng thư ký Hội đồng Nhà nước (1982-1986)."
+  ]
 }

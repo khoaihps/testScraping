@@ -89,5 +89,7 @@
       ]
     }
   ],
-  "description": "Phạm Gia Khiêm (sinh năm 1944) là chính khách Việt Nam. Ông nguyên là Ủy viên Bộ Chính trị, nguyên Phó Thủ tướng kiêm Bộ trưởng Bộ Ngoại giao nước Cộng hòa Xã hội Chủ nghĩa Việt Nam, Đại biểu Quốc hội Việt Nam khóa XII."
+  "description": [
+    "(sinh năm 1944) là chính khách Việt Nam. Ông nguyên là Ủy viên Bộ Chính trị, nguyên Phó Thủ tướng kiêm Bộ trưởng Bộ Ngoại giao nước Cộng hòa Xã hội Chủ nghĩa Việt Nam, Đại biểu Quốc hội Việt Nam khóa XII."
+  ]
 }

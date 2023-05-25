@@ -3,5 +3,8 @@
   "birth": [],
   "death": [],
   "infoList": [],
-  "description": "Nhà Lê (Hán-Nôm: 家黎 • 黎朝, nhà Lê • Lê triều), hay còn được gọi là nhà Tiền Lê (Hán-Nôm: 家前黎 • 前黎朝, nhà Tiền Lê • Tiền Lê triều)8 là một triều đại trong lịch sử Việt Nam, bắt đầu khi Đinh Phế Đế nhường ngôi cho Lê Hoàn vào năm 980, trải qua ba đời quân chủ và chấm dứt khi Lê Long Đĩnh qua đời. Quốc hiệu vẫn là Đại Cồ Việt."
+  "description": [
+    "(Hán-Nôm: , • ), hay còn được gọi là (Hán-Nôm: , • ) là một triều đại trong lịch sử Việt Nam, bắt đầu khi nhường ngôi cho vào năm 980, trải qua ba đời quân chủ và chấm dứt khi Lê Long Đĩnh qua đời. Quốc hiệu vẫn là Đại Cồ Việt.",
+    "Triều đại này được kế tục bởi , được sáng lập bởi ."
+  ]
 }

@@ -149,5 +149,7 @@
       ]
     }
   ],
-  "description": "Trần Văn Rón (sinh năm 1961) là chính trị gia người Việt Nam. Ông hiện đang giữ chức Ủy viên Trung ương Đảng khóa XIII, Phó Chủ nhiệm Thường trực Ủy ban Kiểm tra Trung ương, Bí thư Tỉnh ủy Vĩnh Long."
+  "description": [
+    "(sinh năm 1961) là chính trị gia người Việt Nam. Ông hiện đang giữ chức Ủy viên Trung ương Đảng khóa XIII, Phó Chủ nhiệm Thường trực Ủy ban Kiểm tra Trung ương, Bí thư Tỉnh ủy Vĩnh Long."
+  ]
 }

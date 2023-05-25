@@ -141,5 +141,8 @@
       ]
     }
   ],
-  "description": "Phan Huy Quát1 (1908 - 1979) tự Châu Cử, nguyên quán Hà Tĩnh, là thủ tướng Việt Nam Cộng hòa từ ngày 16 tháng 2 năm 1965 đến ngày 5 tháng 6 năm 1965. Phan Huy Quát đồng thời là thành viên Đại Việt Quốc dân Đảng và Tổng trưởng Quốc phòng Quốc gia Việt Nam. Sau ngày 30 tháng 4 năm 1975, ông tổ chức vượt biên nhưng bị phát hiện, bị tuyên án tù và mất trong nhà lao Chí Hòa ngày 27 tháng 4 năm 1979."
+  "description": [
+    "(1908 - 1979) tự , nguyên quán Hà Tĩnh, là thủ tướng Việt Nam Cộng hòa từ ngày 16 tháng 2 năm 1965 đến ngày 5 tháng 6 năm 1965. Phan Huy Quát đồng thời là thành viên Đại Việt Quốc dân Đảng và Tổng trưởng Quốc phòng Quốc gia Việt Nam. Sau ngày 30 tháng 4 năm 1975, ông tổ chức vượt biên nhưng bị phát hiện, bị tuyên án tù và mất trong nhà lao Chí Hòa ngày 27 tháng 4 năm 1979.",
+    "Ông có bằng tiến sĩ ngành y khoa."
+  ]
 }

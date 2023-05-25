@@ -52,5 +52,8 @@
       ]
     }
   ],
-  "description": "Dương Xá là một xã thuộc huyện Gia Lâm, thành phố Hà Nội, Việt Nam."
+  "description": [
+    "là một xã thuộc , , Việt Nam.",
+    "Xã Dương Xá có diện tích 4.95 km², dân số năm 1999 là 13208 người, mật độ dân số đạt 2668 người/km²."
+  ]
 }
